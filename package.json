@@ -1,0 +1,33 @@
+{
+  "name": "djs-open-src-bot",
+  "version": "1.0.0",
+  "description": "Przykładowy bot discord.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JAHSIK, Loloviczzzz",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-buttons": "^4.0.0",
+    "discord-giveaways": "^4.5.1",
+    "discord-streaming": "^2.3.1",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "ms": "^3.0.0-canary.1",
+    "replace": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAHSIKXD/discordjs-template.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/JAHSIKXD/discordjs-template/issues"
+  },
+  "homepage": "https://github.com/JAHSIKXD/discordjs-template#readme"
+}
